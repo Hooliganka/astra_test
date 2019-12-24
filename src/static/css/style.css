@@ -1,0 +1,9 @@
+.message {
+    color: red;
+}
+
+.error {
+    background-color: red;
+    color: black;
+    padding: 15px;
+}
